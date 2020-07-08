@@ -11,7 +11,7 @@ Every time you edit a file whether it's a word doc, excel sheet or audio file, y
 
 I'm sure I could think-up other benefits but they're the main ones, so if you haven't already:
 
-<b>Shane</b> and <b><i>Annisa</i></b>: <u>check your student email account</u> for the invite I sent to all of you a few days ago, click whatever link is there to join the github group/organisation with the rest of us, then:
+<b><i>Shane</i></b> and <b><i>Annisa</i></b>: check your student email account for the invite I sent everyone a few days ago and click whatever link is there to join the github group/organisation with the rest of us, then:
 
 <b>1</b> Download GitHub Desktop here: https://desktop.github.com/<br>
 <b>2</b> Clone this repository to your local machine.<br>
